@@ -20,3 +20,7 @@ td.dead {
 td.live {
     background-color:aquamarine;
 }
+button {
+    padding: 20px;
+    font-size: 48px;
+}
