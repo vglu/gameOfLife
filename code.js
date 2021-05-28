@@ -1,6 +1,6 @@
 // Packt Build the Game of Life Using JavaScript
-const   rows = 50;
-const   cols = 50;
+const   rows = 24;
+const   cols = 24;
 var     timer;
 const   reproductionTime = 100;
 
